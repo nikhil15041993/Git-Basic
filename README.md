@@ -76,3 +76,6 @@ refs/heads/master
 In the Text field enter the variable name you assigned before as ```$ref```
 
 Now you have configured your job to trigger the build only a push is made to a specific branch.
+
+
+https://www.cloudbooklet.com/jenkins-how-to-build-a-specific-branch-on-github/
