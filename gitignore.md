@@ -5,8 +5,9 @@ Run this command to remove the Dockerfile from Git's tracking but keep it in you
 
 ```
 git rm --cached Synergy.PreseaCadet.Api/Dockerfile
-git rm --cached removes the file from Git's tracking, but the file will still exist in your local folder.
 ```
+git rm --cached removes the file from Git's tracking, but the file will still exist in your local folder.
+
 After running the above command, commit the change:
 
 ```
